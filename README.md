@@ -1,5 +1,10 @@
 # FiveM-GPS-Script
 FiveM GPS Script in nui Standalone
+
+ping speler ga naar locaties 
+simpel instellen config.lua
+map moet je zelf download...
+
 # https://youtu.be/Vjq9CvTd-Ak
 https://youtu.be/Vjq9CvTd-Ak
 
