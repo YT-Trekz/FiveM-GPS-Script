@@ -1,15 +1,12 @@
 Config = {}
-Config.Commnd = 'tomtom'
-Config.OpenGpsKay = true
-Config.OpenGps = 'M'
 
 Config.Locale = {
     ['error_car'] = "Je moet in een auto zitten",
-	['gps_player'] = "gps locatie gezet op speler",
-	['error_player'] = "Speler niet gevonden!",
-	['gps_map_set'] = "locatie gezet op postcode: ~y~",
-	['error_locatie'] = "kan geen locatie vinden",
-	['open_gps'] = "'Open de gps'",
+	[''] = "",
+	[''] = "",
+	[''] = "",
+	[''] = "",
+	[''] = "",
 	[''] = "",
 	[''] = "",
 	[''] = "",
